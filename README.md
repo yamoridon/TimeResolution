@@ -1,2 +1,2 @@
 # TimeResolution
-A sample to measure the resolution time functions.
+A sample to measure the resolution of iOS's time functions.
